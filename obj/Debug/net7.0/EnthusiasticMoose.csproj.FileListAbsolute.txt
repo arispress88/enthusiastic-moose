@@ -1,0 +1,15 @@
+C:\Users\Arnold\workspace\csharp\EnthusiasticMoose\bin\Debug\net7.0\EnthusiasticMoose.exe
+C:\Users\Arnold\workspace\csharp\EnthusiasticMoose\bin\Debug\net7.0\EnthusiasticMoose.deps.json
+C:\Users\Arnold\workspace\csharp\EnthusiasticMoose\bin\Debug\net7.0\EnthusiasticMoose.runtimeconfig.json
+C:\Users\Arnold\workspace\csharp\EnthusiasticMoose\bin\Debug\net7.0\EnthusiasticMoose.dll
+C:\Users\Arnold\workspace\csharp\EnthusiasticMoose\bin\Debug\net7.0\EnthusiasticMoose.pdb
+C:\Users\Arnold\workspace\csharp\EnthusiasticMoose\obj\Debug\net7.0\EnthusiasticMoose.csproj.AssemblyReference.cache
+C:\Users\Arnold\workspace\csharp\EnthusiasticMoose\obj\Debug\net7.0\EnthusiasticMoose.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arnold\workspace\csharp\EnthusiasticMoose\obj\Debug\net7.0\EnthusiasticMoose.AssemblyInfoInputs.cache
+C:\Users\Arnold\workspace\csharp\EnthusiasticMoose\obj\Debug\net7.0\EnthusiasticMoose.AssemblyInfo.cs
+C:\Users\Arnold\workspace\csharp\EnthusiasticMoose\obj\Debug\net7.0\EnthusiasticMoose.csproj.CoreCompileInputs.cache
+C:\Users\Arnold\workspace\csharp\EnthusiasticMoose\obj\Debug\net7.0\EnthusiasticMoose.dll
+C:\Users\Arnold\workspace\csharp\EnthusiasticMoose\obj\Debug\net7.0\refint\EnthusiasticMoose.dll
+C:\Users\Arnold\workspace\csharp\EnthusiasticMoose\obj\Debug\net7.0\EnthusiasticMoose.pdb
+C:\Users\Arnold\workspace\csharp\EnthusiasticMoose\obj\Debug\net7.0\EnthusiasticMoose.genruntimeconfig.cache
+C:\Users\Arnold\workspace\csharp\EnthusiasticMoose\obj\Debug\net7.0\ref\EnthusiasticMoose.dll
